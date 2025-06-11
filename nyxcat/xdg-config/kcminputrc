@@ -1,0 +1,18 @@
+[Libinput][1452][591][Keychron Keychron K2]
+NaturalScroll=true
+PointerAccelerationProfile=1
+
+[Libinput][5426][148][Razer Orochi V2]
+NaturalScroll=true
+PointerAccelerationProfile=1
+ScrollMethod=0
+
+[Libinput][5426][148][Razer Orochi V2 Keyboard]
+NaturalScroll=true
+
+[Libinput][5426][148][Razer Orochi V2 Mouse]
+NaturalScroll=true
+PointerAccelerationProfile=1
+
+[Mouse]
+cursorSize=30

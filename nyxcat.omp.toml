@@ -1,0 +1,131 @@
+"$schema"   = "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json"
+version     = 3
+final_space = true
+console_title_template = "{{ .Shell }} in {{ .Folder }}"
+
+[palette]
+flamingo  = "#F2CDCD"
+rosewater = "#F5E0DC"
+peach     = "#FAB387"
+yellow    = "#F9E2AF"
+green     = "#A6E3A1"
+teal      = "#94E2D5"
+sky       = "#89DCEB"
+sapphire  = "#74C7EC"
+blue      = "#87B0F9"
+lavender  = "#B4BEFE"
+mauve     = "#CBA6F7"
+pink      = "#F5C2E7"
+red       = "#F38BA8"
+maroon    = "#EBA0AC"
+black     = "#1E1E2E"
+white     = "#B3BCDF"
+
+[[blocks]]
+type      = "prompt"
+alignment = "left"
+newline   = true
+
+    [[blocks.segments]]
+    type             = "session"
+    style            = "diamond"
+    leading_diamond  = ""
+    trailing_diamond = ""
+    background       = "p:teal"
+    foreground       = "p:black"
+    template         = " {{ .UserName }}{{ if .SSHSession }}@{{ .HostName }}{{ end }} "
+
+    [[blocks.segments]]
+    type             = "path"
+    style            = "diamond"
+    leading_diamond  = "<transparent,background></>"
+    trailing_diamond = ""
+    background       = "p:blue"
+    foreground       = "p:black"
+
+        [blocks.segments.properties]
+        style = "letter"
+
+    [[blocks.segments]]
+    type             = "git"
+    style            = "diamond"
+    leading_diamond  = "<transparent,background></>"
+    trailing_diamond = ""
+    background       = "p:peach"
+    foreground       = "p:black"
+
+    [[blocks.segments]]
+    type             = "status"
+    style            = "diamond"
+    leading_diamond  = "<transparent,background></>"
+    trailing_diamond = ""
+    background       = "p:teal"
+    foreground       = "p:black"
+    template         = " {{ if ne .Code 0 }}󰅖{{ else }}󰄬{{ end }} "
+    background_templates = [
+        "{{ if ne .Code 0 }}p:red{{ end }}",
+    ]
+
+        [blocks.segments.properties]
+        always_enabled = true
+
+[[blocks]]
+type      = "prompt"
+alignment = "right"
+overflow  = "hidden"
+
+    [[blocks.segments]]
+    type             = "shell"
+    style            = "diamond"
+    leading_diamond  = ""
+    trailing_diamond = ""
+    background       = "p:blue"
+    foreground       = "p:black"
+
+    [[blocks.segments]]
+    type             = "executiontime"
+    style            = "diamond"
+    leading_diamond  = "<transparent,background></>"
+    trailing_diamond = ""
+    background       = "p:teal"
+    foreground       = "p:black"
+    background_templates = [
+        "{{ if ne .Code 0 }}p:red{{ end }}",
+    ]
+
+        [blocks.segments.properties]
+        threshold      = "5000"
+        style          = "austin"
+        always_enabled = true
+
+[[blocks]]
+type      = "prompt"
+alignment = "left"
+newline   = true
+
+    [[blocks.segments]]
+    type       = "text"
+    style      = "plain"
+    background = "transparent"
+    foreground = "p:teal"
+    template   = "❯"
+    foreground_templates = [
+        "{{ if ne .Code 0 }}p:red{{ end }}",
+    ]
+
+[transient_prompt]
+type       = "text"
+style      = "plain"
+background = "transparent"
+foreground = "p:teal"
+template   = "❯ "
+foreground_templates = [
+    "{{ if ne .Code 0 }}p:red{{ end }}",
+]
+
+[secondary_prompt]
+type       = "text"
+style      = "plain"
+background = "transparent"
+foreground = "p:teal"
+template   = "❯❯ "

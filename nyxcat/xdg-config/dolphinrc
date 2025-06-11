@@ -1,0 +1,18 @@
+[ExtractDialog]
+2 screens: Height=480
+2 screens: Width=858
+DirHistory[$e]=$HOME/Downloads/Charlene Texts/
+
+[General]
+Version=202
+ViewPropsTimestamp=2024,12,8,17,40,51.801
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+
+[Search]
+What=Content

@@ -1,0 +1,12 @@
+[Desktop Entry]
+DefaultProfile=nyxcat.profile
+
+[General]
+ConfigVersion=1
+
+[KonsoleWindow]
+RememberWindowSize=false
+ShowWindowTitleOnTitleBar=true
+
+[UiSettings]
+ColorScheme=

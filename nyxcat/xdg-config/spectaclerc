@@ -1,0 +1,11 @@
+[FileDialogSize]
+2 screens: Height=720
+2 screens: Width=1280
+
+[ImageSave]
+lastImageSaveAsLocation=file:///home/nyx/Github/MyDesktop/assets/kdelook.png
+lastImageSaveLocation=file:///home/nyx/Github/MyDesktop/assets/kdelook.png
+translatedScreenshotsFolder=Screenshots
+
+[VideoSave]
+translatedScreencastsFolder=Screencasts
