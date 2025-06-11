@@ -1,3 +1,13 @@
+[ButtonBehaviour]
+VaryColorBackgroundActive=No
+VaryColorBackgroundInactive=No
+VaryColorCloseBackgroundActive=No
+VaryColorCloseBackgroundInactive=No
+VaryColorCloseOutlineActive=No
+VaryColorCloseOutlineInactive=No
+VaryColorOutlineActive=No
+VaryColorOutlineInactive=No
+
 [ButtonColors]
 ButtonBackgroundColorsActive=AccentNegativeClose
 ButtonBackgroundColorsInactive=AccentNegativeClose
@@ -17,12 +27,14 @@ LookAndFeelSet=org.kde.breezedark.desktop
 
 [Windeco]
 ButtonIconStyle=StyleOxygen
-WindowCornerRadius=4.000000000000002
+IconSize=IconMedium
+WindowCornerRadius=4
 
 [WindowOutlineStyle]
 ThinWindowOutlineCustomColorActive=18,18,33
 ThinWindowOutlineCustomColorInactive=18,18,33
 ThinWindowOutlineStyleInactive=WindowOutlineCustomColor
+ThinWindowOutlineThickness=2.3999999999999995
 WindowOutlineAccentColorOpacityActive=100
 WindowOutlineContrastOpacityInactive=40
 WindowOutlineCustomColorOpacityInactive=100
