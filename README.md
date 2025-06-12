@@ -28,7 +28,9 @@ font I use for reading and editing
 - [SaveDesktop](https://github.com/vikdevelop/SaveDesktop)
 easy way to export and import desktop configs
 - [KZones](https://github.com/gerritdevriese/kzones)
-window tiling by mouse draging or keyboard
+basic manual window tiling by using zones
+- [Krohnkite](https://github.com/anametologin/krohnkite)
+a real automatic tiling window manager for KDE
 - [Klassy](https://github.com/paulmcauley/klassy)
 fancy window decorations
 - [application-title-bar](https://github.com/antroids/application-title-bar)

@@ -9,7 +9,7 @@ VaryColorOutlineActive=No
 VaryColorOutlineInactive=No
 
 [ButtonColors]
-ButtonBackgroundColorsActive=AccentNegativeClose
+ButtonBackgroundColorsActive=Accent
 ButtonBackgroundColorsInactive=AccentNegativeClose
 ButtonBackgroundOpacityActive=100
 ButtonBackgroundOpacityInactive=100
@@ -34,8 +34,11 @@ WindowCornerRadius=4
 ThinWindowOutlineCustomColorActive=18,18,33
 ThinWindowOutlineCustomColorInactive=18,18,33
 ThinWindowOutlineStyleInactive=WindowOutlineCustomColor
-ThinWindowOutlineThickness=2.3999999999999995
+ThinWindowOutlineThickness=2.4
 WindowOutlineAccentColorOpacityActive=100
+WindowOutlineAccentWithContrastOpacityActive=100
 WindowOutlineContrastOpacityInactive=40
+WindowOutlineCustomColorOpacityActive=100
 WindowOutlineCustomColorOpacityInactive=100
+WindowOutlineCustomWithContrastOpacityActive=100
 WindowOutlineShadowColorOpacity=100

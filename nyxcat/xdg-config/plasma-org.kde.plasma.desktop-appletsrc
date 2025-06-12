@@ -61,19 +61,24 @@ plugin=com.github.antroids.application-title-bar
 [Containments][28][Applets][64][Configuration][Appearance]
 widgetButtonsAuroraeTheme=CatppuccinMocha-Classic
 widgetButtonsIconsTheme=Breeze
-widgetElements=spacer,windowCloseButton,windowMaximizeButton,windowMinimizeButton
+widgetButtonsMargins=1
+widgetElements=spacer,windowMaximizeButton
 widgetElementsDisabledMode=Hide
-widgetMargins=4
+widgetHorizontalAlignment=4
 widgetToolTipMode=MaximizedWindow
+windowTitleFontBold=false
 
 [Containments][28][Applets][64][Configuration][Behavior]
 widgetActiveTaskFilterByActivity=false
 widgetActiveTaskFilterByScreen=false
 widgetActiveTaskFilterByVirtualDesktop=false
 widgetActiveTaskSource=LastActiveMaximized
+widgetMouseAreaClickEnabled=false
+widgetMouseAreaWheelEnabled=false
+windowTitleDragEnabled=false
 
 [Containments][28][Applets][64][Configuration][ConfigDialog]
-DialogHeight=544
+DialogHeight=540
 DialogWidth=720
 
 [Containments][28][Applets][68]
@@ -90,7 +95,7 @@ showWindowIcons=true
 showWindowOutlines=false
 
 [Containments][28][General]
-AppletOrder=68;64;62;29;33;35
+AppletOrder=68;62;29;33;35;64
 
 [Containments][3]
 activityId=
@@ -121,6 +126,9 @@ icon=pop-cosmic-applications
 primaryActions=3
 showActionButtonCaptions=false
 systemFavorites=lock-screen\\,logout\\,save-session\\,switch-user\\,suspend\\,hibernate\\,reboot\\,shutdown
+
+[Containments][3][Applets][4][Shortcuts]
+global=Meta+Space
 
 [Containments][3][Applets][6]
 immutability=1

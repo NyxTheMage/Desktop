@@ -1,2 +1,10 @@
 [General]
 FreeFloating=true
+
+[Plugins]
+helprunnerEnabled=true
+krunner_kwinEnabled=true
+org.kde.activities2Enabled=false
+
+[Plugins][Favorites]
+plugins=krunner_services,krunner_systemsettings

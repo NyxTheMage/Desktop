@@ -170,7 +170,7 @@ SetEditor=false
 
 [MainWindow]
 2 screens: Height=1009
-2 screens: Width=1381
+2 screens: Width=1126
 
 [filetree]
 editShade=110,80,65
