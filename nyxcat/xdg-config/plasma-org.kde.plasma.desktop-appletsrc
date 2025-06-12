@@ -128,7 +128,7 @@ showActionButtonCaptions=false
 systemFavorites=lock-screen\\,logout\\,save-session\\,switch-user\\,suspend\\,hibernate\\,reboot\\,shutdown
 
 [Containments][3][Applets][4][Shortcuts]
-global=Meta+Space
+global=
 
 [Containments][3][Applets][6]
 immutability=1

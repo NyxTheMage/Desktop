@@ -1,0 +1,24 @@
+[file:///home/nyx/Github/MyDesktop/nyxcat/xdg-data/kactivitymanagerd/resources/database-wal]
+Checksum=def4104f573f97aefc5f802c73ae95849cdfb471
+Encoding=ISO-8859-1
+Time=2025,6,11,7,21,0.703,UTC
+URL=file:///home/nyx/Github/MyDesktop/nyxcat/xdg-data/kactivitymanagerd/resources/database-wal
+
+[file:///home/nyx/Github/MyDesktop/nyxcat/xdg-data/kactivitymanagerd/resources/working-backup/database]
+Checksum=ce3f71f7cca73900c6fc866a15ebf9f6117716a7
+Encoding=ISO-8859-1
+Time=2025,6,11,6,18,32.574,UTC
+URL=file:///home/nyx/Github/MyDesktop/nyxcat/xdg-data/kactivitymanagerd/resources/working-backup/database
+
+[file:///home/nyx/Github/MyDesktop/nyxcat/xdg-data/kwalletd/kdewallet.salt]
+Checksum=d2552dd5ba2a3fbaf8715e429e58692754c1a7ea
+Encoding=ISO-8859-1
+Time=2025,6,11,5,55,3.09,UTC
+URL=file:///home/nyx/Github/MyDesktop/nyxcat/xdg-data/kwalletd/kdewallet.salt
+
+[file:///home/nyx/Github/MyDesktop/zshrc]
+Checksum=03149a24e87778676d3ae2a2e9fd94bab5628a0a
+Mode=Bash
+Mode Set By User=true
+Time=2025,6,9,1,59,54.618,UTC
+URL=file:///home/nyx/Github/MyDesktop/zshrc
