@@ -1,0 +1,10 @@
+[19058039-c877-4a25-b88f-8854e34d018f]
+Description=Application settings for ente
+clientmachine=localhost
+noborderrule=2
+wmclass=ente
+wmclassmatch=1
+
+[General]
+count=1
+rules=19058039-c877-4a25-b88f-8854e34d018f

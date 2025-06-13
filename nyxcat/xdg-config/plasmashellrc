@@ -3,7 +3,7 @@ klipperClearHistoryAskAgain=false
 
 [PlasmaViews][Panel 28]
 floating=1
-panelOpacity=1
+panelOpacity=0
 
 [PlasmaViews][Panel 28][Defaults]
 thickness=32
@@ -11,7 +11,7 @@ thickness=32
 [PlasmaViews][Panel 3]
 floating=1
 panelLengthMode=1
-panelOpacity=1
+panelOpacity=0
 panelVisibility=2
 
 [PlasmaViews][Panel 3][Defaults]
