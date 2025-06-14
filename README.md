@@ -33,6 +33,8 @@ manual window tiling by using zones
 dynamic tiling window manager for KDE (is my new friend)
 - [Klassy](https://github.com/paulmcauley/klassy)
 fancy window decorations
+- [Panel Colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer)
+full customisation of panels
 - [application-title-bar](https://github.com/antroids/application-title-bar)
 use with borderless fullscreen
 
