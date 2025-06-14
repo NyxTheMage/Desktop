@@ -5,8 +5,10 @@ a90a6b3f-a713-4469-a00e-7d327aa4569d=ec929154-9ef7-428c-b00a-bbcb8ab4e9e0
 [Desktops]
 Id_1=ec929154-9ef7-428c-b00a-bbcb8ab4e9e0
 Id_2=c6dc7a03-b75c-4390-a845-4794ddb468b5
-Number=2
-Rows=2
+Id_3=a8bcd87f-0d7c-4212-b077-e8410373e486
+Id_4=f595beeb-ff5e-4468-b196-78950748a484
+Number=4
+Rows=4
 
 [EdgeBarrier]
 CornerBarrier=false
@@ -56,6 +58,12 @@ padding=4
 [Tiling][16e43150-5d52-5085-bb94-6d7d2a6ff5dc]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][38741e2c-a51d-5d80-9cda-eb180a6b3d2f]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][d029f92e-5211-5f14-8fcb-c902226716f5]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][ec58a9aa-708a-5188-bb53-640c074d650e]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
@@ -70,6 +78,5 @@ RollOverDesktops=true
 Scale=1
 
 [org.kde.kdecoration2]
-ButtonsOnRight=IAX
 library=org.kde.klassy
 theme=Klassy

@@ -5,8 +5,17 @@ DefaultProfile=nyxcat.profile
 ConfigVersion=1
 
 [KonsoleWindow]
+AllowMenuAccelerators=true
 RememberWindowSize=false
 ShowWindowTitleOnTitleBar=true
+
+[MainWindow]
+MenuBar=Disabled
+
+[TabBar]
+CloseTabOnMiddleMouseButton=true
+NewTabButton=true
+TabBarVisibility=AlwaysShowTabBar
 
 [UiSettings]
 ColorScheme=

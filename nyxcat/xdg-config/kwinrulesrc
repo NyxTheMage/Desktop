@@ -1,3 +1,11 @@
+[057b5d22-d620-4247-8bfb-d16e676b890f]
+Description=Application settings for ONLYOFFICE
+clientmachine=localhost
+noborderrule=2
+wmclass=DesktopEditors ONLYOFFICE
+wmclasscomplete=true
+wmclassmatch=1
+
 [19058039-c877-4a25-b88f-8854e34d018f]
 Description=Application settings for ente
 clientmachine=localhost
@@ -6,5 +14,5 @@ wmclass=ente
 wmclassmatch=1
 
 [General]
-count=1
-rules=19058039-c877-4a25-b88f-8854e34d018f
+count=2
+rules=057b5d22-d620-4247-8bfb-d16e676b890f,19058039-c877-4a25-b88f-8854e34d018f

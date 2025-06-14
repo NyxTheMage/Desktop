@@ -30,6 +30,30 @@ ButtonIconStyle=StyleOxygen
 IconSize=IconMedium
 WindowCornerRadius=4
 
+[Windeco Exception 0]
+BorderSize=0
+Enabled=true
+ExceptionBorder=false
+ExceptionPreset=
+ExceptionProgramNamePattern=
+ExceptionWindowPropertyPattern=ente
+ExceptionWindowPropertyType=0
+HideTitleBar=true
+OpaqueTitleBar=false
+PreventApplyOpacityToHeader=false
+
+[Windeco Exception 1]
+BorderSize=0
+Enabled=true
+ExceptionBorder=false
+ExceptionPreset=
+ExceptionProgramNamePattern=
+ExceptionWindowPropertyPattern=ONLYOFFICE
+ExceptionWindowPropertyType=0
+HideTitleBar=true
+OpaqueTitleBar=false
+PreventApplyOpacityToHeader=false
+
 [WindowOutlineStyle]
 ThinWindowOutlineCustomColorActive=18,18,33
 ThinWindowOutlineCustomColorInactive=18,18,33

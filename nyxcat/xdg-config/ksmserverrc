@@ -3,13 +3,8 @@ count=0
 
 [Session: saved at previous logout]
 clientId1=10108ebdc5e000174942965000000018710003
-clientId2=10108ebdc5e000174976077700000018800003
-count=2
+count=1
 program1=/usr/bin/qpwgraph
-program2=firefox
-restartCommand1=/usr/bin/qpwgraph,-session,10108ebdc5e000174942965000000018710003_1749789839_509156
-restartCommand2=/usr/bin/firefox,--sm-client-id,10108ebdc5e000174976077700000018800003
+restartCommand1=/usr/bin/qpwgraph,-session,10108ebdc5e000174942965000000018710003_1749870571_441083
 restartStyleHint1=0
-restartStyleHint2=0
 userId1=nyx
-userId2=nyx
