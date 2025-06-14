@@ -70,7 +70,7 @@ sync with cloud storage
 - [betterdiscordctl](https://github.com/bb010g/betterdiscordctl)
 manage BetterDiscord install (even flatpak)
 
-## Linux Apps
+## Apps
 
 - [Ente Photos](https://github.com/ente-io/ente)
 photo backup, storage, and sync
@@ -82,6 +82,8 @@ surprisingly great code editor
 Discord enhancement plugin
 - [Krita](https://invent.kde.org/graphics/krita)
 best opensource digital painting app
+- [Habitica](https://github.com/HabitRPG/habitica)
+a fun RPG-styled habit tracking and goal setter app 
 - [OnlyOffice](https://github.com/ONLYOFFICE/DesktopEditors)
 most compatible MS Office alternative
 - [qpwgraph](https://gitlab.freedesktop.org/rncbc/qpwgraph)
