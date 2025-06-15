@@ -37,9 +37,8 @@ ShadowSize=ShadowMedium
 
 [Windeco]
 ButtonIconStyle=StyleOxygen
-DrawBackgroundGradient=true
 IconSize=IconMedium
-WindowCornerRadius=9.700000000000001
+WindowCornerRadius=5.000000000000016
 
 [Windeco Exception 0]
 BorderSize=0
