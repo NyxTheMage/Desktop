@@ -32,10 +32,14 @@ PoorIconContrastThresholdInactive=5
 [Global]
 LookAndFeelSet=org.kde.breezedark.desktop
 
+[ShadowStyle]
+ShadowSize=ShadowMedium
+
 [Windeco]
 ButtonIconStyle=StyleOxygen
+DrawBackgroundGradient=true
 IconSize=IconMedium
-WindowCornerRadius=4
+WindowCornerRadius=9.700000000000001
 
 [Windeco Exception 0]
 BorderSize=0
@@ -62,10 +66,10 @@ OpaqueTitleBar=false
 PreventApplyOpacityToHeader=false
 
 [WindowOutlineStyle]
-ThinWindowOutlineCustomColorActive=4,4,22
-ThinWindowOutlineCustomColorInactive=4,4,22
+ThinWindowOutlineCustomColorActive=25,25,43
+ThinWindowOutlineCustomColorInactive=25,25,43
 ThinWindowOutlineStyleInactive=WindowOutlineCustomColor
-ThinWindowOutlineThickness=2.4
+ThinWindowOutlineThickness=2.5
 WindowOutlineAccentColorOpacityActive=100
 WindowOutlineAccentWithContrastOpacityActive=100
 WindowOutlineContrastOpacityInactive=40
