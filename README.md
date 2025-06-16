@@ -1,15 +1,20 @@
-![My Desktop Floating](assets/kdelook_a.png)
-![My Desktop Tiled](assets/kdelook_b.png)
+# My Desktop Environment
 
 I like my mess of a desktop. This repo is where I keep the config. I like to have a hybrid floating
 and stacking workflow in my desktop environment. [COSMIC](https://system76.com/cosmic/) could be my
 dream desktop but I can't justify using something still in alpha, so I'm sticking with
 [KDE Plasma](https://kde.org/plasma-desktop/). What about [GNOME](https://www.gnome.org/)? I just
-don't like its uncompromising nature.
+don't like its uncompromising nature. Below is everything I use to make my desktop environment.
 
 My terminal's Oh My Posh theme: [nyxcat.omp.toml](nyxcat.omp.toml)
 
 The wallpaper artist is [Michal Kvac](https://kvacm.carrd.co/)
+
+![My Desktop Floating](assets/kdelook_a.png)
+*Desktop floating mode*
+
+![My Desktop Tiled](assets/kdelook_b.png)
+*Desktop tiling mode*
 
 ## Overall Theme
 
