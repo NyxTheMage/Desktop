@@ -1,4 +1,5 @@
-![My Desktop](assets/kdelook.png)
+![My Desktop Floating](assets/kdelook_a.png)
+![My Desktop Tiled](assets/kdelook_b.png)
 
 I like my mess of a desktop. This repo is where I keep the config. I like to have a hybrid floating
 and stacking workflow in my desktop environment. [COSMIC](https://system76.com/cosmic/) could be my
