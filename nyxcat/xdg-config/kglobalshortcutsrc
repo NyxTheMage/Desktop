@@ -335,7 +335,7 @@ toggle do not disturb=none,,Toggle do not disturb
 _launch=Meta+T\tCtrl+Alt+T
 
 [services][org.kde.krunner.desktop]
-_launch=Search\tAlt+F2
+_launch=Search\tAlt+Space\tAlt+F2
 
 [services][org.kde.spectacle.desktop]
 _launch=Print

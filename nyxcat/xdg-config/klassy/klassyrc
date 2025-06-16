@@ -38,7 +38,7 @@ ShadowSize=ShadowMedium
 [Windeco]
 ButtonIconStyle=StyleOxygen
 IconSize=IconMedium
-WindowCornerRadius=5.000000000000016
+WindowCornerRadius=5
 
 [Windeco Exception 0]
 BorderSize=0
@@ -65,10 +65,10 @@ OpaqueTitleBar=false
 PreventApplyOpacityToHeader=false
 
 [WindowOutlineStyle]
-ThinWindowOutlineCustomColorActive=25,25,43
-ThinWindowOutlineCustomColorInactive=25,25,43
+ThinWindowOutlineCustomColorActive=46,47,66
+ThinWindowOutlineCustomColorInactive=46,47,66
 ThinWindowOutlineStyleInactive=WindowOutlineCustomColor
-ThinWindowOutlineThickness=2.5
+ThinWindowOutlineThickness=2
 WindowOutlineAccentColorOpacityActive=100
 WindowOutlineAccentWithContrastOpacityActive=100
 WindowOutlineContrastOpacityInactive=40

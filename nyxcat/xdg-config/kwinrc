@@ -23,6 +23,7 @@ EnableFocusTracking=true
 krohnkiteEnabled=true
 kwin4_effect_shapecornersEnabled=false
 kzonesEnabled=false
+screenedgeEnabled=false
 
 [Round-Corners]
 InactiveOutlineThickness=0.75
