@@ -15,7 +15,7 @@ ButtonBackgroundOpacityActive=100
 ButtonBackgroundOpacityInactive=100
 ButtonIconColorsActive=Accent
 ButtonIconColorsInactive=Accent
-ButtonIconOpacityInactive=60
+ButtonIconOpacityInactive=100
 ButtonOverrideColorsActiveClose={"BackgroundHover":[242,138,167],"BackgroundPress":[242,138,167],"OutlineHover":[242,138,167],"OutlinePress":[242,138,167]}
 ButtonOverrideColorsActiveMaximize={"BackgroundHover":[165,226,160],"BackgroundPress":[165,226,160],"OutlineHover":[165,226,160],"OutlinePress":[165,226,160]}
 ButtonOverrideColorsActiveMinimize={"BackgroundHover":[248,225,174],"BackgroundPress":[248,225,174],"OutlineHover":[248,225,174],"OutlinePress":[248,225,174]}
@@ -26,6 +26,8 @@ ButtonOverrideColorsInactiveMinimize={"BackgroundHover":[248,225,174],"Backgroun
 ButtonOverrideColorsInactiveOnAllDesktops={"BackgroundHover":[136,179,249],"BackgroundPress":[136,179,249],"OutlineHover":[136,179,249],"OutlinePress":[136,179,249]}
 CloseButtonIconColorActive=AsSelected
 CloseButtonIconColorInactive=AsSelected
+PoorBackgroundContrastThresholdActive=5
+PoorBackgroundContrastThresholdInactive=5
 PoorIconContrastThresholdActive=5
 PoorIconContrastThresholdInactive=5
 

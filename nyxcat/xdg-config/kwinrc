@@ -77,6 +77,8 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 BorderlessMaximizedWindows=true
 ElectricBorderMaximize=false
 ElectricBorderTiling=false
+FocusPolicy=FocusFollowsMouse
+NextFocusPrefersMouse=true
 RollOverDesktops=true
 
 [Xwayland]
