@@ -2,16 +2,20 @@
     {
         "data": [
             {
+                "allowDdcCi": true,
                 "allowSdrSoftwareBrightness": false,
                 "autoRotation": "InTabletMode",
                 "brightness": 0.5,
                 "colorPowerTradeoff": "PreferAccuracy",
                 "colorProfileSource": "EDID",
                 "connectorName": "HDMI-A-2",
+                "detectedDdcCi": true,
                 "edidHash": "2cd111db694593cb4d833a4f03a549ca",
                 "edidIdentifier": "DEL 61520 1094137410 30 2014 0",
+                "edrPolicy": "always",
                 "highDynamicRange": false,
                 "iccProfilePath": "",
+                "maxBitsPerColor": 0,
                 "mode": {
                     "height": 1080,
                     "refreshRate": 60000,
@@ -23,20 +27,25 @@
                 "sdrBrightness": 200,
                 "sdrGamutWideness": 0,
                 "transform": "Normal",
+                "uuid": "3b997ebc-7439-42be-a441-b719eb6094e8",
                 "vrrPolicy": "Automatic",
                 "wideColorGamut": false
             },
             {
+                "allowDdcCi": true,
                 "allowSdrSoftwareBrightness": false,
                 "autoRotation": "InTabletMode",
                 "brightness": 0.5,
                 "colorPowerTradeoff": "PreferAccuracy",
                 "colorProfileSource": "EDID",
                 "connectorName": "HDMI-A-3",
+                "detectedDdcCi": true,
                 "edidHash": "e5feb3ae54993233b97fc89fc801668e",
                 "edidIdentifier": "VSC 15162 16843009 38 2020 0",
+                "edrPolicy": "always",
                 "highDynamicRange": false,
                 "iccProfilePath": "",
+                "maxBitsPerColor": 0,
                 "mode": {
                     "height": 1440,
                     "refreshRate": 59951,
@@ -48,6 +57,7 @@
                 "sdrBrightness": 200,
                 "sdrGamutWideness": 0,
                 "transform": "Normal",
+                "uuid": "8af7fc92-ce94-4157-89e7-2ff2e32759da",
                 "vrrPolicy": "Automatic",
                 "wideColorGamut": false
             }
@@ -66,7 +76,8 @@
                             "x": 0,
                             "y": 0
                         },
-                        "priority": 1
+                        "priority": 1,
+                        "replicationSource": ""
                     },
                     {
                         "enabled": true,
@@ -75,7 +86,23 @@
                             "x": 1920,
                             "y": 0
                         },
-                        "priority": 0
+                        "priority": 0,
+                        "replicationSource": ""
+                    }
+                ]
+            },
+            {
+                "lidClosed": false,
+                "outputs": [
+                    {
+                        "enabled": true,
+                        "outputIndex": 1,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "priority": 0,
+                        "replicationSource": ""
                     }
                 ]
             }
