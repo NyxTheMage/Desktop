@@ -1,3 +1,22 @@
+[Libinput][1][1][stream-controller-os-plugin]
+NaturalScroll=true
+PointerAccelerationProfile=1
+ScrollMethod=0
+
+[Libinput][13364][2048][Keychron Keychron Q0 Max Consumer Control]
+NaturalScroll=true
+
+[Libinput][13364][2048][Keychron Keychron Q0 Max Mouse]
+NaturalScroll=true
+PointerAccelerationProfile=1
+
+[Libinput][13364][53288][Keychron Ultra-Link 8K]
+NaturalScroll=true
+PointerAccelerationProfile=1
+
+[Libinput][13364][53288][Keychron Ultra-Link 8K Keyboard]
+NaturalScroll=true
+
 [Libinput][1452][591][Keychron Keychron K2]
 NaturalScroll=true
 PointerAccelerationProfile=1
