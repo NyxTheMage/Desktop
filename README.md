@@ -86,6 +86,8 @@ my favourite note-taking app
 surprisingly great code editor
 - [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord/)
 Discord enhancement plugin
+- [Cider](https://github.com/ciderapp/Cider-2)
+Customisable Apple Music client
 - [Krita](https://invent.kde.org/graphics/krita)
 best opensource digital painting app
 - [Habitica](https://github.com/HabitRPG/habitica)
