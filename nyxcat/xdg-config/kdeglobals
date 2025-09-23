@@ -120,7 +120,7 @@ ForegroundVisited=203, 166, 247
 
 [DirSelect Dialog]
 DirSelectDialog Size=1271,433
-History Items[$e]=file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME,file:$HOME/Documents,file:$HOME/Documents,file:$HOME,file:$HOME/Documents,file:$HOME,file:$HOME/Documents,file:$HOME,file:$HOME/Documents,file:$HOME,file:$HOME,file:$HOME,file:$HOME,file:$HOME/Documents,file:$HOME,file:$HOME/Documents,file:$HOME,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Documents,file:$HOME,file:$HOME,file:///run/media/nyx/Backup/Taipan,file:$HOME,file:$HOME/Documents,file:$HOME,file:$HOME/Documents,file:$HOME,file:$HOME/Github/Desktop,file:$HOME/Documents,file:$HOME,file:$HOME/Documents,file:$HOME/Documents,file:$HOME,file:$HOME/Documents,file:$HOME,file:$HOME,file:$HOME,file:$HOME,file:$HOME/Pictures,file:$HOME/Pictures/Screenshots,file:$HOME/.appimages,file:$HOME
+History Items[$e]=file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/University/ProgrammingPrinciples,file:$HOME/University/ProgrammingPrinciples,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME,file:$HOME/Documents,file:$HOME/Documents,file:$HOME,file:$HOME/Documents,file:$HOME,file:$HOME/Documents,file:$HOME,file:$HOME/Documents,file:$HOME,file:$HOME,file:$HOME,file:$HOME,file:$HOME/Documents,file:$HOME,file:$HOME/Documents,file:$HOME,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Documents,file:$HOME,file:$HOME,file:///run/media/nyx/Backup/Taipan,file:$HOME,file:$HOME/Documents,file:$HOME,file:$HOME/Documents,file:$HOME,file:$HOME/Github/Desktop,file:$HOME/Documents,file:$HOME,file:$HOME/Documents,file:$HOME/Documents,file:$HOME
 Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x8c\x00\x00\x02\xa8\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
 
 [General]
@@ -151,7 +151,6 @@ Breadcrumb Navigation=true
 Decoration position=2
 LocationCombo Completionmode=5
 PathCombo Completionmode=5
-Show Bookmarks=false
 Show Full Path=false
 Show Inline Previews=true
 Show Preview=false
@@ -170,6 +169,9 @@ Dialog Size=600,480
 [PreviewSettings]
 EnableRemoteFolderThumbnail=false
 MaximumRemoteSize=0
+
+[Shortcuts]
+BackwardWord=
 
 [Sounds]
 Enable=false

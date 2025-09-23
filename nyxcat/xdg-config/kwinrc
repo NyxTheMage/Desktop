@@ -29,6 +29,9 @@ screenedgeEnabled=false
 InactiveOutlineThickness=0.75
 OutlineThickness=0.75
 
+[ScreenEdges]
+RemainActiveOnFullscreen=true
+
 [Script-krohnkite]
 binaryTreeLayoutOrder=0
 cascadeLayoutOrder=0
@@ -99,8 +102,6 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 
 [Windows]
 BorderlessMaximizedWindows=true
-ElectricBorderMaximize=false
-ElectricBorderTiling=false
 RollOverDesktops=true
 
 [Xwayland]
