@@ -40,7 +40,7 @@ ShadowSize=ShadowMedium
 [Windeco]
 ButtonIconStyle=StyleOxygen
 IconSize=IconMedium
-WindowCornerRadius=5
+WindowCornerRadius=3
 
 [Windeco Exception 0]
 BorderSize=0
@@ -48,7 +48,7 @@ Enabled=true
 ExceptionBorder=false
 ExceptionPreset=
 ExceptionProgramNamePattern=
-ExceptionWindowPropertyPattern=ente
+ExceptionWindowPropertyPattern=ONLYOFFICE
 ExceptionWindowPropertyType=0
 HideTitleBar=true
 OpaqueTitleBar=false
@@ -60,7 +60,7 @@ Enabled=true
 ExceptionBorder=false
 ExceptionPreset=
 ExceptionProgramNamePattern=
-ExceptionWindowPropertyPattern=ONLYOFFICE
+ExceptionWindowPropertyPattern=ente
 ExceptionWindowPropertyType=0
 HideTitleBar=true
 OpaqueTitleBar=false

@@ -1,14 +1,8 @@
-[Activities][LastVirtualDesktop]
-7f751fa3-0e79-4734-b94c-4af4c38702d9=ec929154-9ef7-428c-b00a-bbcb8ab4e9e0
-a90a6b3f-a713-4469-a00e-7d327aa4569d=ec929154-9ef7-428c-b00a-bbcb8ab4e9e0
-
 [Desktops]
 Id_1=ec929154-9ef7-428c-b00a-bbcb8ab4e9e0
 Id_2=c6dc7a03-b75c-4390-a845-4794ddb468b5
-Id_3=a8bcd87f-0d7c-4212-b077-e8410373e486
-Id_4=f595beeb-ff5e-4468-b196-78950748a484
-Number=4
-Rows=4
+Number=2
+Rows=2
 
 [EdgeBarrier]
 CornerBarrier=false
@@ -50,58 +44,22 @@ stackedLayoutOrder=0
 stairLayoutOrder=0
 tileLayoutOrder=2
 
-[Script-kzones]
-edgeSnappingTriggerDistance=2
-enableEdgeSnapping=true
-enableZoneSelector=false
-layoutsJson=[\n    {\n        "name": "Halves",\n        "padding": 6,\n        "zones": [\n            {\n                "x": 0,\n                "y": 0,\n                "height": 100,\n                "width": 50\n            },\n            {\n                "x": 50,\n                "y": 0,\n                "height": 100,\n                "width": 50\n            }\n        ]\n    },\n    {\n        "name": "Thirds",\n        "padding": 6,\n        "zones": [\n            {\n                "x": 0,\n                "y": 0,\n                "height": 100,\n                "width": 33\n            },\n            {\n                "x": 33,\n                "y": 0,\n                "height": 100,\n                "width": 34\n            },\n            {\n                "x": 67,\n                "y": 0,\n                "height": 100,\n                "width": 33\n            }\n        ]\n    },\n    {\n        "name": "Quarters",\n        "padding": 6,\n        "zones": [\n            {\n                "x": 0,\n                "y": 0,\n                "height": 50,\n                "width": 50\n            },\n            {\n                "x": 0,\n                "y": 50,\n                "height": 50,\n                "width": 50\n            },\n            {\n                "x": 50,\n                "y": 50,\n                "height": 50,\n                "width": 50\n            },\n            {\n                "x": 50,\n                "y": 0,\n                "height": 50,\n                "width": 50\n            }\n        ]\n    },\n    {\n        "name": "Sixths",\n        "padding": 6,\n        "zones": [\n            {\n                "x": 0,\n                "y": 0,\n                "height": 50,\n                "width": 33\n            },\n            {\n                "x": 33,\n                "y": 0,\n                "height": 50,\n                "width": 34\n            },\n            {\n                "x": 67,\n                "y": 0,\n                "height": 50,\n                "width": 33\n            },\n            {\n                "x": 0,\n                "y": 50,\n                "height": 50,\n                "width": 33\n            },\n            {\n                "x": 33,\n                "y": 50,\n                "height": 50,\n                "width": 34\n            },\n            {\n                "x": 67,\n                "y": 50,\n                "height": 50,\n                "width": 33\n            }\n        ]\n    }\n]
-trackLayoutPerScreen=true
-zoneOverlayHighlightTarget=1
-zoneOverlayIndicatorDisplay=1
-zoneOverlayShowWhen=1
-zoneSelectorTriggerDistance=2
-
 [Tiling]
 padding=4
 
-[Tiling][16e43150-5d52-5085-bb94-6d7d2a6ff5dc]
-tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
-
-[Tiling][38741e2c-a51d-5d80-9cda-eb180a6b3d2f]
-tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
-
-[Tiling][a8bcd87f-0d7c-4212-b077-e8410373e486][3b997ebc-7439-42be-a441-b719eb6094e8]
-tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
-
-[Tiling][a8bcd87f-0d7c-4212-b077-e8410373e486][8af7fc92-ce94-4157-89e7-2ff2e32759da]
-tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
-
-[Tiling][c6dc7a03-b75c-4390-a845-4794ddb468b5][3b997ebc-7439-42be-a441-b719eb6094e8]
+[Tiling][c6dc7a03-b75c-4390-a845-4794ddb468b5][38b85e5c-6c64-4ed6-ad94-5fc41d3365da]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][c6dc7a03-b75c-4390-a845-4794ddb468b5][8af7fc92-ce94-4157-89e7-2ff2e32759da]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
-[Tiling][d029f92e-5211-5f14-8fcb-c902226716f5]
-tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
-
-[Tiling][ec58a9aa-708a-5188-bb53-640c074d650e]
-tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
-
-[Tiling][ec929154-9ef7-428c-b00a-bbcb8ab4e9e0][3b997ebc-7439-42be-a441-b719eb6094e8]
+[Tiling][ec929154-9ef7-428c-b00a-bbcb8ab4e9e0][38b85e5c-6c64-4ed6-ad94-5fc41d3365da]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][ec929154-9ef7-428c-b00a-bbcb8ab4e9e0][8af7fc92-ce94-4157-89e7-2ff2e32759da]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
-[Tiling][f595beeb-ff5e-4468-b196-78950748a484][3b997ebc-7439-42be-a441-b719eb6094e8]
-tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
-
-[Tiling][f595beeb-ff5e-4468-b196-78950748a484][8af7fc92-ce94-4157-89e7-2ff2e32759da]
-tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
-
 [Windows]
-BorderlessMaximizedWindows=true
 RollOverDesktops=true
 
 [Xwayland]

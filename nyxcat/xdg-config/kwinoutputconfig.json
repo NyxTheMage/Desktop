@@ -15,7 +15,6 @@
                 "edrPolicy": "always",
                 "highDynamicRange": false,
                 "iccProfilePath": "",
-                "maxBitsPerColor": 0,
                 "mode": {
                     "height": 1080,
                     "refreshRate": 60000,
@@ -38,14 +37,14 @@
                 "brightness": 0.5,
                 "colorPowerTradeoff": "PreferAccuracy",
                 "colorProfileSource": "EDID",
-                "connectorName": "HDMI-A-3",
+                "connectorName": "HDMI-A-2",
                 "detectedDdcCi": true,
                 "edidHash": "e5feb3ae54993233b97fc89fc801668e",
                 "edidIdentifier": "VSC 15162 16843009 38 2020 0",
                 "edrPolicy": "always",
                 "highDynamicRange": false,
                 "iccProfilePath": "",
-                "maxBitsPerColor": 0,
+                "maxBitsPerColor": 12,
                 "mode": {
                     "height": 1440,
                     "refreshRate": 59951,
@@ -56,9 +55,40 @@
                 "scale": 1,
                 "sdrBrightness": 200,
                 "sdrGamutWideness": 0,
-                "transform": "Normal",
+                "transform": "Rotated270",
                 "uuid": "8af7fc92-ce94-4157-89e7-2ff2e32759da",
                 "vrrPolicy": "Automatic",
+                "wideColorGamut": false
+            },
+            {
+                "allowDdcCi": true,
+                "allowSdrSoftwareBrightness": false,
+                "autoRotation": "InTabletMode",
+                "brightness": 0.5,
+                "colorPowerTradeoff": "PreferAccuracy",
+                "colorProfileSource": "EDID",
+                "connectorName": "HDMI-A-4",
+                "detectedDdcCi": true,
+                "edidHash": "c51115a654088901b665cc49cdd1dce7",
+                "edidIdentifier": "BNQ 32750 16843009 51 2024 0",
+                "edrPolicy": "always",
+                "highDynamicRange": false,
+                "iccProfilePath": "",
+                "maxBitsPerColor": 12,
+                "maxPeakBrightnessOverride": 490,
+                "mode": {
+                    "height": 1440,
+                    "refreshRate": 59951,
+                    "width": 2560
+                },
+                "overscan": 0,
+                "rgbRange": "Full",
+                "scale": 1,
+                "sdrBrightness": 250,
+                "sdrGamutWideness": 0,
+                "transform": "Normal",
+                "uuid": "38b85e5c-6c64-4ed6-ad94-5fc41d3365da",
+                "vrrPolicy": "Never",
                 "wideColorGamut": false
             }
         ],
@@ -115,6 +145,46 @@
                         "position": {
                             "x": 0,
                             "y": 0
+                        },
+                        "priority": 0,
+                        "replicationSource": ""
+                    }
+                ]
+            },
+            {
+                "lidClosed": false,
+                "outputs": [
+                    {
+                        "enabled": true,
+                        "outputIndex": 2,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "priority": 0,
+                        "replicationSource": ""
+                    }
+                ]
+            },
+            {
+                "lidClosed": false,
+                "outputs": [
+                    {
+                        "enabled": true,
+                        "outputIndex": 1,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "priority": 1,
+                        "replicationSource": ""
+                    },
+                    {
+                        "enabled": true,
+                        "outputIndex": 2,
+                        "position": {
+                            "x": 1440,
+                            "y": 1120
                         },
                         "priority": 0,
                         "replicationSource": ""

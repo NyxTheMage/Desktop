@@ -50,7 +50,7 @@ ForegroundVisited=203, 166, 247
 
 [Colors:Header]
 BackgroundAlternate=17, 17, 27
-BackgroundNormal=24, 24, 37
+BackgroundNormal=24,24,37
 DecorationFocus=148,226,213
 DecorationHover=49, 50, 68
 ForegroundActive=250, 179, 135
@@ -67,14 +67,14 @@ BackgroundAlternate=148,226,213
 BackgroundNormal=148,226,213
 DecorationFocus=148,226,213
 DecorationHover=49, 50, 68
-ForegroundActive=250, 179, 135
+ForegroundActive=120,84,65
 ForegroundInactive=24, 24, 37
-ForegroundLink=148,226,213
-ForegroundNegative=243, 139, 168
-ForegroundNeutral=249, 226, 175
+ForegroundLink=79,120,112
+ForegroundNegative=120,68,83
+ForegroundNeutral=120,109,84
 ForegroundNormal=17, 17, 27
-ForegroundPositive=166, 227, 161
-ForegroundVisited=203, 166, 247
+ForegroundPositive=88,120,85
+ForegroundVisited=98,81,120
 
 [Colors:Tooltip]
 BackgroundAlternate=27,25,35
@@ -118,14 +118,8 @@ ForegroundNormal=205, 214, 244
 ForegroundPositive=166, 227, 161
 ForegroundVisited=203, 166, 247
 
-[DirSelect Dialog]
-DirSelectDialog Size=1271,433
-History Items[$e]=file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/University/ProgrammingPrinciples,file:$HOME/University/ProgrammingPrinciples,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME,file:$HOME/Documents,file:$HOME/Documents,file:$HOME,file:$HOME/Documents,file:$HOME,file:$HOME/Documents,file:$HOME,file:$HOME/Documents,file:$HOME,file:$HOME,file:$HOME,file:$HOME,file:$HOME/Documents,file:$HOME,file:$HOME/Documents,file:$HOME,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/Documents,file:$HOME,file:$HOME,file:///run/media/nyx/Backup/Taipan,file:$HOME,file:$HOME/Documents,file:$HOME,file:$HOME/Documents,file:$HOME,file:$HOME/Github/Desktop,file:$HOME/Documents,file:$HOME,file:$HOME/Documents,file:$HOME/Documents,file:$HOME
-Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x8c\x00\x00\x02\xa8\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
-
 [General]
-ColorScheme=CatppuccinMochaTeal
-ColorSchemeHash=4a552f5969a91e14a71cf4609690d897ac7bdbae
+ColorSchemeHash=fde09e124fe6266ae064881795d031712f001c96
 XftAntialias=true
 XftHintStyle=hintfull
 XftSubPixel=rgb
@@ -142,15 +136,12 @@ Theme=Papirus-Dark
 DndBehavior=MoveIfSameDevice
 LookAndFeelPackage=org.kde.breezedark.desktop
 ShowDeleteCommand=false
-widgetStyle=Breeze
 
 [KFileDialog Settings]
 Allow Expansion=false
 Automatically select filename extension=true
 Breadcrumb Navigation=true
 Decoration position=2
-LocationCombo Completionmode=5
-PathCombo Completionmode=5
 Show Full Path=false
 Show Inline Previews=true
 Show Preview=false

@@ -1,3 +1,6 @@
+[Keyboard]
+NumLock=0
+
 [Libinput][1][1][stream-controller-os-plugin]
 NaturalScroll=true
 PointerAccelerationProfile=1
