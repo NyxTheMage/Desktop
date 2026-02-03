@@ -35,7 +35,7 @@ font I use for reading and editing
 easy way to export and import desktop configs
 - [KZones](https://github.com/gerritdevriese/kzones)
 manual window tiling by using zones
-- [Krohnkite](https://github.com/anametologin/krohnkite)
+- [Krohnkite](https://codeberg.org/anametologin/Krohnkite)
 dynamic tiling window manager for KDE (is my new friend)
 - [Klassy](https://github.com/paulmcauley/klassy)
 fancy window decorations
