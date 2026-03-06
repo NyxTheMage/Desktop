@@ -1,18 +1,30 @@
 [057b5d22-d620-4247-8bfb-d16e676b890f]
-Description=Application settings for ONLYOFFICE
+Description=ONLYOFFICE
 clientmachine=localhost
 noborderrule=2
+types=1
 wmclass=DesktopEditors ONLYOFFICE
 wmclasscomplete=true
 wmclassmatch=1
 
 [19058039-c877-4a25-b88f-8854e34d018f]
-Description=Application settings for ente
+Description=ente Photoes
 clientmachine=localhost
 noborderrule=2
+types=1
 wmclass=ente
 wmclassmatch=1
 
+[456e84a8-9a9a-4f4d-a4e4-bb14f4bcf519]
+noborderrule=2
+
+[97bd3233-376f-489f-b6a9-5d89a2d0d2c7]
+Description=Fluxer
+noborderrule=2
+types=1
+wmclass=fluxer_app
+wmclassmatch=1
+
 [General]
-count=2
-rules=057b5d22-d620-4247-8bfb-d16e676b890f,19058039-c877-4a25-b88f-8854e34d018f
+count=3
+rules=057b5d22-d620-4247-8bfb-d16e676b890f,19058039-c877-4a25-b88f-8854e34d018f,97bd3233-376f-489f-b6a9-5d89a2d0d2c7

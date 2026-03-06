@@ -33,7 +33,16 @@
             {
                 "allowDdcCi": true,
                 "allowSdrSoftwareBrightness": false,
+                "autoBrightnessCurve": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
                 "autoRotation": "InTabletMode",
+                "automaticBrightness": false,
                 "brightness": 0.5,
                 "colorPowerTradeoff": "PreferAccuracy",
                 "colorProfileSource": "EDID",
@@ -55,7 +64,8 @@
                 "scale": 1,
                 "sdrBrightness": 200,
                 "sdrGamutWideness": 0,
-                "transform": "Rotated270",
+                "sharpness": 0,
+                "transform": "Normal",
                 "uuid": "8af7fc92-ce94-4157-89e7-2ff2e32759da",
                 "vrrPolicy": "Automatic",
                 "wideColorGamut": false
@@ -63,7 +73,16 @@
             {
                 "allowDdcCi": true,
                 "allowSdrSoftwareBrightness": false,
+                "autoBrightnessCurve": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
                 "autoRotation": "InTabletMode",
+                "automaticBrightness": false,
                 "brightness": 0.5,
                 "colorPowerTradeoff": "PreferAccuracy",
                 "colorProfileSource": "EDID",
@@ -86,6 +105,7 @@
                 "scale": 1,
                 "sdrBrightness": 250,
                 "sdrGamutWideness": 0,
+                "sharpness": 0,
                 "transform": "Normal",
                 "uuid": "38b85e5c-6c64-4ed6-ad94-5fc41d3365da",
                 "vrrPolicy": "Never",
@@ -176,17 +196,17 @@
                             "x": 0,
                             "y": 0
                         },
-                        "priority": 1,
+                        "priority": 2,
                         "replicationSource": ""
                     },
                     {
                         "enabled": true,
                         "outputIndex": 2,
                         "position": {
-                            "x": 1440,
-                            "y": 1120
+                            "x": 2560,
+                            "y": 403
                         },
-                        "priority": 0,
+                        "priority": 1,
                         "replicationSource": ""
                     }
                 ]
